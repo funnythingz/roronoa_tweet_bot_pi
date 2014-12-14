@@ -21,7 +21,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
-    roronoa (1.0.3)
+    roronoa (1.0.4)
     simple_oauth (0.3.0)
     slop (3.6.0)
     thread_safe (0.3.4)
@@ -44,6 +44,6 @@ PLATFORMS
 
 DEPENDENCIES
   pry
-  roronoa
+  roronoa (~> 1.0.4)
   twitter
   whenever
