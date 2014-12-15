@@ -1,6 +1,6 @@
 require 'roronoa'
 require 'date'
-require '/home/pi/twitter_bot_pi/config'
+require '/home/pi/roronoa_tweet_bot_pi/config'
 
 roronoa = Roronoa::Zoro.eye
 unless roronoa.nil?
