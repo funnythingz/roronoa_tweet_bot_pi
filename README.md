@@ -1,4 +1,4 @@
-# twitter_bot_pi
+# roronoa_tweet_bot_pi
 
 ## Usage
 
@@ -6,7 +6,7 @@ clonw and copy
 
 ```
 % cd
-% git clone git@github.com:funnythingz/twitter_bot_pi.git
+% git clone git@github.com:funnythingz/roronoa_tweet_bot_pi.git
 % cd twitter_bot_pi
 % cp config.rb.sample config.rb
 ```
